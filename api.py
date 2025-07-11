@@ -34,6 +34,7 @@ def get_by_camera(camera_name):
             v for v in filtered
             if datetime.strptime(v["time"], "%Y-%m-%d %H:%M:%S") >= one_day_ago
         ]
+    return jsonify(filtered)
 
 if __name__ == "__main__":
     app.run(debug=True)
