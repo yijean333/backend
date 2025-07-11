@@ -23,7 +23,7 @@ def get_latest_violation():
 
 @app.route("/violations/<camera_name>", methods=["GET"])
 def get_by_camera(camera_name):
-        within = request.args.get("within")  # 取得查詢參數
+    within = request.args.get("within")  # 取得查詢參數
 
     filtered = [v for v in violations if v["camera_name"] == camera_name]
 
