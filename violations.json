@@ -60,5 +60,13 @@
       "image_url": "https://cdn.discordapp.com/attachments/1389130915929653273/1392929452622876802/violation_frame_630.jpg?ex=68715224&is=687000a4&hm=ed92a711040fa7724ecd6cb5123f2d0f6a86e8a3ae4371d587bda66a750b51d6&",
       "camera_name": "test_road"
     }
+  ],
+  "測試用勿按": [
+    {
+      "time": "2025-07-11 17:05:47",
+      "vehicle": "bike",
+      "image_url": "https://cdn.discordapp.com/attachments/1389411426111590530/1393156306021388379/tmphwr3ts9o.jpg?ex=6872256a&is=6870d3ea&hm=40c730c447c29e855ec34663ddadc4d6369b0c992fc376e1140e974f0798e80e&",
+      "camera_name": "測試用勿按"
+    }
   ]
 }
