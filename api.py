@@ -1,8 +1,12 @@
 from datetime import datetime
 from flask import Flask, jsonify, request
+from flask_cors import CORS
 import json
 
 app = Flask(__name__)
+
+# 允許指定前端網域跨域
+CORS(app, origins=["https://yijean333.github.io"])
 
 with open('violations.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
