@@ -1,5 +1,6 @@
-from flask import Flask, jsonify
+from flask import Flask, jsonify, request
 from flask_cors import CORS
+from datetime import datetime, timedelta
 import json
 
 app = Flask(__name__)
@@ -22,8 +23,17 @@ def get_latest_violation():
 
 @app.route("/violations/<camera_name>", methods=["GET"])
 def get_by_camera(camera_name):
+        within = request.args.get("within")  # 取得查詢參數
+
     filtered = [v for v in violations if v["camera_name"] == camera_name]
-    return jsonify(filtered)
+
+    if within == "1d":
+        one_day_ago = datetime.now() - timedelta(days=1)
+        # 假設你的時間格式是像 "2024-07-11 14:30:00"
+        filtered = [
+            v for v in filtered
+            if datetime.strptime(v["time"], "%Y-%m-%d %H:%M:%S") >= one_day_ago
+        ]
 
 if __name__ == "__main__":
     app.run(debug=True)
