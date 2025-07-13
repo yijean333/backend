@@ -13,6 +13,10 @@ with open('violations.json', 'r', encoding='utf-8') as f:
 
 violations = data  # 把整包都拿來用
 
+@app.route("/", methods=["GET"])
+def health_check():
+    return "OK", 200
+
 @app.route("/violations/<camera_name>", methods=["GET"])
 def get_by_camera(camera_name):
     today_only = request.args.get("today") == "1"
