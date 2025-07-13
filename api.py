@@ -1,4 +1,4 @@
-from datetime import datetime
+from datetime import datetime, timedelta
 from flask import Flask, jsonify, request
 from flask_cors import CORS
 import json
@@ -20,7 +20,7 @@ def get_by_camera(camera_name):
     records = violations.get(camera_name, [])
 
     if today_only:
-        today = datetime.now().date()
+        today = (datetime.utcnow() + timedelta(hours=8)).date()
         records = [
             v for v in records
             if datetime.strptime(v["time"], "%Y-%m-%d %H:%M:%S").date() == today
