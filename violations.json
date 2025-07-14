@@ -1,6 +1,12 @@
 {
   "約農力行路口": [
     {
+      "time": "2025-07-13 02:00:02",
+      "vehicle": "oloo",
+      "image_url": "https://cdn.discordapp.com/attachments/1389411426111590530/1394015525121556510/tmph7l12mtc.jpg?ex=687545a0&is=6873f420&hm=8b7d620b9a41cfcdce26af1dcde4defc01203fe20348efd3558b09f22632b888&",
+      "camera_name": "約農力行路口"
+    },
+    {
       "time": "2025-07-14 02:00:02",
       "vehicle": "oloo",
       "image_url": "https://cdn.discordapp.com/attachments/1389411426111590530/1394015525121556510/tmph7l12mtc.jpg?ex=687545a0&is=6873f420&hm=8b7d620b9a41cfcdce26af1dcde4defc01203fe20348efd3558b09f22632b888&",
@@ -998,6 +1004,12 @@
     },
     {
       "time": "2025-07-14 15:51:40",
+      "vehicle": "bike",
+      "image_url": "https://cdn.discordapp.com/attachments/1389411426111590530/1394224830831792279/tmpecexpmo7.jpg?ex=6876088f&is=6874b70f&hm=3b9f3da325f18f2d47e89ddc65e1bd5478681de4a4d4918de0b142b5cf258de5&",
+      "camera_name": "約農力行路口"
+    },
+    {
+      "time": "2025-07-14 16:13:40",
       "vehicle": "bike",
       "image_url": "https://cdn.discordapp.com/attachments/1389411426111590530/1394224830831792279/tmpecexpmo7.jpg?ex=6876088f&is=6874b70f&hm=3b9f3da325f18f2d47e89ddc65e1bd5478681de4a4d4918de0b142b5cf258de5&",
       "camera_name": "約農力行路口"
