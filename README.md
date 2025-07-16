@@ -1,8 +1,8 @@
 # Backend 
 
-這個後端系統負責管理來自 Discord bot 的資料，並提供給前端網頁使用。
+這個是專案的後端系統，負責管理來自 Discord bot 的資料，並提供給前端網頁使用。
 
-## 功能說明
+## 功能
 - 每 5 分鐘由 Discord bot 更新違規資料，寫入 `violations.json`
 - 將 JSON 檔內容提供給前端讀取與顯示
 
