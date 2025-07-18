@@ -767,6 +767,24 @@
       "vehicle": "bike",
       "image_url": "https://cdn.discordapp.com/attachments/1389411426111590530/1395567966002872443/tmpfm_s1bvo.jpg?ex=687aeb73&is=687999f3&hm=e4af66f1a2b497e21d89c8bcebde81e9318ec8f272fcb06d05c3e80cd16838eb&",
       "camera_name": "約農力行路口"
+    },
+    {
+      "time": "2025-07-18 09:15:59",
+      "vehicle": "oloo",
+      "image_url": "https://cdn.discordapp.com/attachments/1389411426111590530/1395574799153233971/tmp57hp_l1i.jpg?ex=687af1d0&is=6879a050&hm=051cb494009944271cef363f86a0e57eceaa06cf493dffb1cba7ddd228d98693&",
+      "camera_name": "約農力行路口"
+    },
+    {
+      "time": "2025-07-18 09:18:50",
+      "vehicle": "bike",
+      "image_url": "https://cdn.discordapp.com/attachments/1389411426111590530/1395575516873883689/tmp3fluwg0_.jpg?ex=687af27b&is=6879a0fb&hm=132fc0da086bcffab2e81875e2a5c35f13023a8b82483fd6a7ae363d9df18945&",
+      "camera_name": "約農力行路口"
+    },
+    {
+      "time": "2025-07-18 09:18:54",
+      "vehicle": "bike",
+      "image_url": "https://cdn.discordapp.com/attachments/1389411426111590530/1395575532959301632/tmpas3ihmrh.jpg?ex=687af27f&is=6879a0ff&hm=b9f6d266bc24b27e35951042ba8ce84f4e7cc5112367ccc04d6e3c72ebec4d3a&",
+      "camera_name": "約農力行路口"
     }
   ],
   "一校大門出入口": [
