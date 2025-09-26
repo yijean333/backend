@@ -45,6 +45,12 @@
       "vehicle": "bike",
       "image_url": "https://cdn.discordapp.com/attachments/1389411426111590530/1420923537996120135/tmpp4brhh3k.jpg?ex=68d729aa&is=68d5d82a&hm=c59876c58268cdcc448f50a677df4690e72642c642d705537195a3f20db0415e&",
       "camera_name": "測試路段1"
+    },
+    {
+      "time": "2025-09-26 08:23:39",
+      "vehicle": "oloo",
+      "image_url": "https://cdn.discordapp.com/attachments/1389411426111590530/1420928780951752824/tmpymmo3vrk.jpg?ex=68d72e8c&is=68d5dd0c&hm=e6d1341379b79566b2ce6b853af89603fe09cdc0e5752cc4db030fd1efc0dc93&",
+      "camera_name": "測試路段1"
     }
   ],
   "測試路段2": []
