@@ -69,6 +69,12 @@
       "vehicle": "oloo",
       "image_url": "https://cdn.discordapp.com/attachments/1389411426111590530/1420939471888715827/tmp0m9js1tl.jpg?ex=68d73881&is=68d5e701&hm=5c6dfcdd92378cc887e7388337c0652d289a42c652d49faf93aaaedce16c5837&",
       "camera_name": "測試路段1"
+    },
+    {
+      "time": "2025-09-26 10:07:10",
+      "vehicle": "oloo",
+      "image_url": "https://cdn.discordapp.com/attachments/1389411426111590530/1420954830402355211/tmpvd3610_2.jpg?ex=68d746cf&is=68d5f54f&hm=92fda72e725f3b031a90ccbb3ce848514ac47c91b76d1a928ed595b8f54837e3&",
+      "camera_name": "測試路段1"
     }
   ],
   "測試路段2": []
