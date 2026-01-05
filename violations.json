@@ -6383,6 +6383,12 @@
       "vehicle": "bike",
       "image_url": "https://cdn.discordapp.com/attachments/1389411426111590530/1457863943337938974/tmpa40ycfca.jpg?ex=695d8d19&is=695c3b99&hm=a9d2de42ee880bddc18fa9031af740a05b95a6d385e7b8eadf43a7534d1f3bb2&",
       "camera_name": "測試路段2"
+    },
+    {
+      "time": "2026-01-06 07:02:17",
+      "vehicle": "oloo",
+      "image_url": "https://cdn.discordapp.com/attachments/1389411426111590530/1457871862817095853/tmpexh1t5ms.jpg?ex=695d947a&is=695c42fa&hm=36576755307ed9338bcd221c828aef3a4bee06de8efe4fd34a02cecc293b59ba&",
+      "camera_name": "測試路段2"
     }
   ]
 }
