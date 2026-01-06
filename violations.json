@@ -6459,6 +6459,12 @@
       "vehicle": "bike",
       "image_url": "https://cdn.discordapp.com/attachments/1389411426111590530/1458115417716424889/tmplt_3cjv_.jpg?ex=695e774e&is=695d25ce&hm=6bedec1d6c9c494661ff11246ecf451371fee32a169fb0382601460bce7eb3ae&",
       "camera_name": "測試路段1"
+    },
+    {
+      "time": "2026-01-06 23:42:52",
+      "vehicle": "bike",
+      "image_url": "https://cdn.discordapp.com/attachments/1389411426111590530/1458123668361318493/tmpyz3gqn2k.jpg?ex=695e7efd&is=695d2d7d&hm=5eecdf450dd7a8bd74e55a9e26a870589b67df1a54a6a043acc27a0e4b0612a4&",
+      "camera_name": "測試路段1"
     }
   ],
   "測試路段2": [
