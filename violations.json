@@ -6435,6 +6435,24 @@
       "vehicle": "bike",
       "image_url": "https://cdn.discordapp.com/attachments/1389411426111590530/1458069830501535946/tmpqfrw3ige.jpg?ex=695e4cd9&is=695cfb59&hm=f2bef82f92852d9e6391e0d0be3fb708669e4a4745c4ee937a9d049c97f360da&",
       "camera_name": "測試路段1"
+    },
+    {
+      "time": "2026-01-06 21:35:26",
+      "vehicle": "oloo",
+      "image_url": "https://cdn.discordapp.com/attachments/1389411426111590530/1458091597714554993/tmpv2vaaytb.jpg?ex=695e611e&is=695d0f9e&hm=f1049c1e982d3c4bd564f0d17904c2bf93309ef325223fa3a029116c688260d9&",
+      "camera_name": "測試路段1"
+    },
+    {
+      "time": "2026-01-06 21:35:28",
+      "vehicle": "oloo",
+      "image_url": "https://cdn.discordapp.com/attachments/1389411426111590530/1458091603532058758/tmp_i4a0nyc.jpg?ex=695e6120&is=695d0fa0&hm=0189fd1b78bf715c4aa8e56c91a0f8828cbf21b31003ade84f8cc86d8dba303b&",
+      "camera_name": "測試路段1"
+    },
+    {
+      "time": "2026-01-06 21:38:28",
+      "vehicle": "bike",
+      "image_url": "https://cdn.discordapp.com/attachments/1389411426111590530/1458092358842191934/tmpq05f_oo8.jpg?ex=695e61d4&is=695d1054&hm=22e222b919221e3d57ca7b84fd2eb36ff162a4b11a49d7f15fc7a682c0dac4f4&",
+      "camera_name": "測試路段1"
     }
   ],
   "測試路段2": [
